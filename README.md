@@ -14,26 +14,6 @@ To evaluate marketing performance by:
 
 ---
 
-## 📁 Project Structure
-
-remote_work_marketing_project/
-│
-├── data/
-│ └── customer_acquisition_cost_dataset.csv
-│
-├── notebooks/
-│ └── analysis_dashboard_final.ipynb
-│
-├── src/
-│ └── data_cleaning.py
-│ └── modeling.py
-│
-├── dashboard/ (optional)
-│ └── marketing_dashboard.py
-│
-├── README.md
-└── requirements.txt
-
 ## 🚀 Phases of the Project
 
 ### 📌 Phase 1: Data Understanding & Cleaning
